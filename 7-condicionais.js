@@ -36,6 +36,7 @@ if(idadeComprador >= 18 && temPassagemComprada){
 console.log(listaDeDestinos);
 
 
+
 // UMA NOVA FORMA ABAIXO DE ESCREVER O CÓDIGO MAIS CURTO E DIRETO
 
 

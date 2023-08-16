@@ -11,3 +11,4 @@ console.log(6.5); // sempre se usa . para casa decimal ao invés de ,
 
 
 
+

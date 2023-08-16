@@ -12,3 +12,4 @@ console.log(`Meu nome é ${primeiroNome} ${sobreNome}`); // outro tipo de concat
 
 let idade1; // declarando uma variavel
 idade = 30 // atribuindo um valor
+

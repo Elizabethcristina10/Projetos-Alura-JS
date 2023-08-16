@@ -22,3 +22,5 @@ console.log(listaDeDestinos[1]); // vai mostrar apenas o nome da posição 1 que
 
 
 
+
+
