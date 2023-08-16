@@ -32,6 +32,7 @@ while(contador<3){
 
 console.log("Destino existe:", destinoExiste);
 
+
 if (podeComprar && destinoExiste){
     console.log("Boa Viagem!");
 }else {
